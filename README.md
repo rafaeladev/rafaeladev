@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaeladev
 - 👀 I’m interested in dev web
-- 🌱 I’m currently learning java script / html / css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, React
 - 📫 How to reach me (https://www.linkedin.com/in/rafaeladsdo/)
 
 <!---
