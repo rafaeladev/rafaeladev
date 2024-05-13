@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Rafaela
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, React
+- 💞️ I’m looking to collaborate on JavaScript, React, Three.js
 - 📫 How to reach me ([https://www.rafaeladsdo.com/](https://www.rafaeladsdo.com/))
 
 
